@@ -6,7 +6,8 @@ import { Calendar, Clock, ArrowRight, BookOpen } from "lucide-react";
 
 export const metadata = {
   title: "Blog",
-  description: "Technical writings, software architecture guides, and UI performance articles by Alex Rivera.",
+  description:
+    "Technical writings, software architecture guides, and UI performance articles by Alex Rivera.",
 };
 
 export default function BlogPage() {
@@ -19,10 +20,12 @@ export default function BlogPage() {
             Technical Publications
           </span>
           <h1 className="text-3xl sm:text-4xl lg:text-5xl font-extrabold text-zinc-900 dark:text-zinc-100 tracking-tight">
-            Engineering <span className="gradient-text">Articles & Insights</span>
+            Engineering{" "}
+            <span className="gradient-text">Articles & Insights</span>
           </h1>
           <p className="text-xs sm:text-sm text-zinc-600 dark:text-zinc-400 leading-relaxed">
-            Deep dives into frontend performance tuning, cloud microservices, design systems, and modern web architecture.
+            Deep dives into frontend performance tuning, cloud microservices,
+            design systems, and modern web architecture.
           </p>
         </div>
       </AnimatedSection>
