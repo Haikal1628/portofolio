@@ -67,7 +67,7 @@ export const profileData: Profile = {
   about: {
     biography: [
       "Saya adalah lulusan S1 Teknik Informatika Universitas Sriwijaya dengan IPK 3,94/4,00 (Cumlaude) yang memiliki fokus dan pengalaman mendalam di bidang Machine Learning, Deep Learning, dan Generative AI/Large Language Models (LLM), didukung sertifikasi Certified TensorFlow Developer.",
-      "Terampil merancang, melatih, dan men-deploy model Machine Learning serta sistem AI Agentic berbasis LLM ke dalam aplikasi nyata. Berpengalaman membangun solusi end-to-end mulai dari eksperimen model hingga integrasi ke backend dan production, dengan kemampuan problem-solving, adaptabilitas, dan komunikasi yang kuat.",
+      "Terampil merancang, melatih model Machine Learning serta sistem AI Agentic berbasis LLM ke dalam aplikasi nyata. Berpengalaman membangun solusi end-to-end mulai dari eksperimen model hingga integrasi ke backend dan production, dengan kemampuan problem-solving, adaptabilitas, dan komunikasi yang kuat.",
       "Sangat antusias mengeksplorasi teknologi AI terkini seperti Agentic AI, RAG, dan LLM Fine-tuning untuk menciptakan solusi digital yang inovatif dan berdampak. Bersemangat menerapkan kemampuan analitis dalam membangun sistem AI yang andal, scalable, dan siap digunakan pengguna nyata.",
     ],
     journey: [
